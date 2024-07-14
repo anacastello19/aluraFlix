@@ -10,16 +10,15 @@
 }
 .header img{
     width: 168px;
+    margin: 15px 25px;
 }
 .header div{
     padding: 10px;
-
-
 }
 .header button{
     margin-right: 15px;
     padding: 5px;
-    width: 100px;
+    width: 130px;
     height: 50px;
     font-family: "Source Sans 3", sans-serif;
     font-weight: 900;
@@ -37,5 +36,4 @@
     border: 2px solid #F5F5F5;
     color: #ffff;
     background-color: #262626;
-
 }

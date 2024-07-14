@@ -5,7 +5,7 @@ function Header(){
         <img src="/img/Header.png" alt='logo'/>
         <div>
             <button className='home'>Home</button>
-            <button className='newVideo'>Nuevo video</button>
+            <button className='newVideo'>Nuevo Proyecto</button>
         </div>
     </header>
 
