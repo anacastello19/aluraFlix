@@ -1,0 +1,17 @@
+.form{
+    display: flex;
+    justify-content: center;
+    margin: 30px 0 30px 0;
+}
+
+.form form{
+    max-width: 80%;
+    background-color: #ebb8e3;
+    width:  500px;
+    padding: 10px 0px 20px 0px;
+    border-radius: 10px;
+    border: 1px solid #f69ae7;
+    justify-content: space-between;
+    box-shadow: 0px 0px 17px 8px #f7a4e9 inset;
+}   
+
