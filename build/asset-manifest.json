@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aluraFlix/build/static/css/main.328316ca.css",
+    "main.js": "/aluraFlix/build/static/js/main.d2865b06.js",
+    "static/js/453.3576bb3e.chunk.js": "/aluraFlix/build/static/js/453.3576bb3e.chunk.js",
+    "static/media/logo.svg": "/aluraFlix/build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/aluraFlix/build/index.html",
+    "main.328316ca.css.map": "/aluraFlix/build/static/css/main.328316ca.css.map",
+    "main.d2865b06.js.map": "/aluraFlix/build/static/js/main.d2865b06.js.map",
+    "453.3576bb3e.chunk.js.map": "/aluraFlix/build/static/js/453.3576bb3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.328316ca.css",
+    "static/js/main.d2865b06.js"
+  ]
+}
