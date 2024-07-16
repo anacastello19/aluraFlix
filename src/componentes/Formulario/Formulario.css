@@ -1,17 +1,23 @@
 .form{
     display: flex;
     justify-content: center;
-    margin: 30px 0 30px 0;
+    margin: 20px 0 20px 0;
 }
 
 .form form{
-    max-width: 80%;
-    background-color: #ebb8e3;
-    width:  500px;
-    padding: 10px 0px 20px 0px;
-    border-radius: 10px;
-    border: 1px solid #f69ae7;
-    justify-content: space-between;
-    box-shadow: 0px 0px 17px 8px #f7a4e9 inset;
-}   
+    width: 30%;
+    padding: 25px 85px ;
+    border-radius: 15px ;
+    background: #03122F;
+    border: 5px solid #6BD1FF;
+
+}
+
+.form h2{
+    color: #2271D1;
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 900;
+    text-align: start;
+}
 
