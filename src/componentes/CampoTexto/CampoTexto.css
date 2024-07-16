@@ -1,5 +1,7 @@
 .campo-texto{
     margin: 15px 0px;
+    font-family: "Source Sans 3", sans-serif;
+    font-weight: 900;
 }
 
 .campo-texto label{
